@@ -1,0 +1,16 @@
+tr td:nth-child(1) {
+  width: 75px;
+}
+
+tr td:nth-child(2) {
+  width: 50px;
+}
+
+.dp {
+  height: 250px;
+}
+
+.li_ja {
+  list-style: japanese-formal;
+}
+
